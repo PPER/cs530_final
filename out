@@ -1,0 +1,39 @@
+parent of tree 21 1
+qt_size: 1
+0 
+qt_size: 3
+0 
+0 
+1 
+qt_size: 6
+0 
+0 
+1 
+0 
+0 
+1 
+qt_size: 3
+0 
+0 
+1 
+---print mesh
+row: 0   :
+0 
+row: 1   :
+0 
+0 
+1
+row: 2   :
+0 
+0 
+1
+0 
+0 
+1
+row: 3   :
+0 
+0 
+1
+nodes_cnt: 70
+vtknodes: 70
+color: 70
